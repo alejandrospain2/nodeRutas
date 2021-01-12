@@ -1,11 +1,11 @@
 {
   "name": "4.rutas",
   "version": "1.0.0",
-  "description": "Un ejercicio para pracaticar las rutas",
-  "main": "index.js",
+  "description": "Un ejercicio para practicar las rutas",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js"
+    "start": "nodemon app.js"
   },
   "author": "Alex",
   "license": "ISC",
